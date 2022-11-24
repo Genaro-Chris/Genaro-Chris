@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Genaro-Chris
-- 👀 I’m interested in Swift, Go & Rust, C# and lastly Typescript
+- 👀 I’m interested in Swift, PHP, Go & Rust, C# and lastly Typescript
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me [email](mailto:christian25589@gmail.com)
